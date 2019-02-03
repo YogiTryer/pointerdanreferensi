@@ -1,0 +1,1 @@
+Berikut ini adalah cara menggunakan pointer dan referensi di c++
